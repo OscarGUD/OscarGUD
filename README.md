@@ -12,6 +12,7 @@ Full Stack Developer · JavaScript / TypeScript · React · Node.js
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 

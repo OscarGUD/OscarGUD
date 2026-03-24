@@ -19,7 +19,8 @@ Full Stack Developer · JavaScript / TypeScript · React · Node.js
 
 - Full Stack Developer with experience building web applications end-to-end
 - Focused on clean, maintainable code and practical solutions
-- Currently open to new opportunities
+- 🔭 Currently building a SaaS platform for restaurants
+- 💼 Open to new opportunities
 
 ---
 
